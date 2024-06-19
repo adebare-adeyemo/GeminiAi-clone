@@ -10,7 +10,7 @@ const Main = () => {
     const {onSent,recentPrompt,showResult,loading,resultData,setInput,input} = useContext(Context)
   return (
     <div className='main'>
-        {/* the topmost like nav div on the main page */}
+        {/* the topmost like the nav div on the main page */}
         <div className="nav">
             <p>Gemini</p>
             {/* the user icon */}
@@ -21,13 +21,13 @@ const Main = () => {
          
          <div className='main-container'>
             
-            {/* the showResult hides the hello jad and the cards so as to allow result to be showed  */}
+            {/* the showResult hides the hello Dear and the cards so as to allow the result to be shown  */}
             
             {!showResult
             ?
             <>
                  <div className="greet">
-                <p><span>Hello, Jad.</span></p>
+                <p><span>Hello, Dear.</span></p>
                 <p>How can i help you today?</p>
             </div>
 
