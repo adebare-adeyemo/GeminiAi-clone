@@ -14,7 +14,7 @@ const Main = () => {
         <div className="nav">
             <p>Gemini</p>
             {/* the user icon */}
-            <img src={assets.user_icon} alt="" />
+            <a href="/"><img src={assets.user_icon} alt=""  /> </a>
         </div>
 
         {/* the main container having the greeting */}
