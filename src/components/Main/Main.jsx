@@ -12,7 +12,7 @@ const Main = () => {
     <div className='main'>
         {/* the topmost like the nav div on the main page */}
         <div className="nav">
-            <p>Gemini</p>
+            <a href="/"><p>Gemini</p></a>
             {/* the user icon */}
             <a href="/"><img src={assets.user_icon} alt=""  /> </a>
         </div>
