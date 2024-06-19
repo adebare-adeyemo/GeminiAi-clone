@@ -12,5 +12,5 @@ _Gemini, an AI Chatbot Assistant Gemini is an advanced artificial intelligence c
 - Gemini api
 
 # Screenshot
-!(the gemini ai screenshot)[https://github.com/adebare-adeyemo/GeminiAi-clone/blob/main/gemini-image.png]
+![the gemini ai screenshot](https://github.com/adebare-adeyemo/GeminiAi-clone/blob/main/gemini-image.png)
 
