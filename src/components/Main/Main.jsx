@@ -27,7 +27,7 @@ const Main = () => {
             ?
             <>
                  <div className="greet">
-                <p><span>Hello, Nazi hope say hunger never kill  you lol!!.</span></p>
+                <p><span>Hello, Friend.</span></p>
                 <p>How can i help you today?</p>
             </div>
 
